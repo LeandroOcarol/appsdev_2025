@@ -1,0 +1,16 @@
+D:\Chapter 1\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\bin\Debug\net8.0-windows\SimpleFavoriteCartoonFormApp.exe
+D:\Chapter 1\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\bin\Debug\net8.0-windows\SimpleFavoriteCartoonFormApp.deps.json
+D:\Chapter 1\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\bin\Debug\net8.0-windows\SimpleFavoriteCartoonFormApp.runtimeconfig.json
+D:\Chapter 1\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\bin\Debug\net8.0-windows\SimpleFavoriteCartoonFormApp.dll
+D:\Chapter 1\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\bin\Debug\net8.0-windows\SimpleFavoriteCartoonFormApp.pdb
+D:\Chapter 1\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormApp.Form1.resources
+D:\Chapter 1\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormApp.csproj.GenerateResource.cache
+D:\Chapter 1\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chapter 1\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormApp.AssemblyInfoInputs.cache
+D:\Chapter 1\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormApp.AssemblyInfo.cs
+D:\Chapter 1\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormApp.csproj.CoreCompileInputs.cache
+D:\Chapter 1\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormApp.dll
+D:\Chapter 1\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\net8.0-windows\refint\SimpleFavoriteCartoonFormApp.dll
+D:\Chapter 1\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormApp.pdb
+D:\Chapter 1\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormApp.genruntimeconfig.cache
+D:\Chapter 1\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\net8.0-windows\ref\SimpleFavoriteCartoonFormApp.dll
